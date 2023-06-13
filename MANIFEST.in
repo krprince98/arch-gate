@@ -1,0 +1,4 @@
+include src/archg/schema.sql
+graft src/archg/static
+graft src/archg/templates
+global-exclude *.pyc
