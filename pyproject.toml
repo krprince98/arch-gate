@@ -2,7 +2,7 @@
 name = "arch-gate"
 version = "1.0.0"
 dependencies = [
-    "flask",
+    "flask>=2.3.2",
 ]
 
 [build-system]
